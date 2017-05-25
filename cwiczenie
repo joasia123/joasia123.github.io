@@ -1,0 +1,49 @@
+
+
+<!DOCTYPE html>
+ <html>
+   <head>
+  	 <meta charset="UTF-8">
+  	 <title> The Awwwesomes podbijają świat!</title>
+   </head>
+   <body>
+     <header>
+      <nav>
+      <ul>
+      	<li> Jeden </li>
+      	<li> Dwa </li>
+      	<li> Trzy </li>
+
+      
+       </ul>
+       </nav>
+
+     <h1> The Awwwesomes podbijają świat! </h1>
+     </header>
+
+   
+
+     <p> Warsztaty ruszyły pełną parą! Grupa 20 zdolnych uczestników zabrała się do kodowania z godnym podziwu zapałem. </p>
+
+
+
+     Mentorzy mieli trudne zadanie, ponieważ padło bardzo dużo ciekawych pytań. Nasi uczestnicy są naprawdę awwwesome!
+
+       <h2> Najpierw semantyczny HTML, potem estetyczny CSS </h2>
+
+       <p> Naukę zaczęliśmy od HTML, który jest absolutną podstawą dla każdego kodera stron internetowych. Nie obejdzie się jednak bez zapoznania z CSS, dzięki któremu każdy może upiększyć swoją stronę jak tylko sobie wymarzy! </p>
+
+       <p> Zostaw swój komentarz: </p>
+       Twój email:
+       <input> 
+       Twoje imię
+       <input>
+       <br>
+       Twój komentarz 
+       <textarea style="height: 150px"></textarea>
+       <button> Prześlij
+
+
+      </header>
+	</body>
+</html>
